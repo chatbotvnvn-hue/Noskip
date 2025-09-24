@@ -1,6 +1,6 @@
 --[[
 	Brookhaven Script Hub vi UI Redzlib
-	Full tÌnh nng Troll, House Mod, Vehicle v‡ nhiu hn
+	Full t√≠nh nng Troll, House Mod, Vehicle v√† nhiu hn
 ]]
 
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
